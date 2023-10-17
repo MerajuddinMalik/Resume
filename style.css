@@ -1,0 +1,225 @@
+.container {
+  margin-top: 30px;
+  background-image: linear-gradient(#ffd633, white);
+  border: 1px solid rgb(250, 249, 249);
+  /* height: 1900px; */
+  /* width: 800px; */
+}
+
+.profile {
+  width: 300px;
+  height: 300px;
+  border-radius: 50%;
+  overflow: hidden;
+  margin-top: 80px;
+  margin-left: 60px;
+  float: left;
+  border: 2px solid white;
+}
+.profile-image {
+  max-width: 100%;
+  height: auto;
+}
+
+.name {
+  margin-top: 200px;
+  color: #fff;
+  font-weight: bolder;
+}
+
+.profession h5 {
+  color: black;
+  font-weight: bolder;
+  font-variant-caps: all-petite-caps;
+}
+
+.detail p {
+  color: black;
+  font-weight: lighter;
+  margin-top: -20px;
+}
+
+.experience1 h5 {
+  color: white;
+  font-weight: bolder;
+  font-variant-caps: all-petite-caps;
+  margin-top: 40px;
+  border-radius: 12px 2px 12px 2px;
+  padding-left: 10px;
+  padding-bottom: 5px;
+  background-color: #ffcc00;
+}
+
+.exp {
+  color: rgb(5, 0, 0);
+  font-weight: bolder;
+  margin-top: -20px;
+}
+
+span {
+  color: #e9bb03;
+}
+i {
+  color: #e9bb03;
+}
+
+.p2 {
+  margin-top: -35px;
+}
+.p3 {
+  margin-top: -35px;
+}
+
+.experience2 h5 {
+  color: white;
+  font-weight: bolder;
+  font-variant-caps: all-petite-caps;
+  border-radius: 12px 2px 12px 2px;
+  padding-left: 10px;
+  padding-bottom: 5px;
+  margin-top: -10px;
+  background-color: #ffcc00;
+}
+
+.ContactDetails h5 {
+  color: white;
+  font-weight: bolder;
+  font-variant-caps: all-petite-caps;
+  border-radius: 12px 2px 12px 2px;
+  padding-left: 10px;
+  padding-bottom: 5px;
+  margin-top: 40px;
+  background-color: #ffcc00;
+}
+
+.skills h5 {
+  color: white;
+  font-weight: bolder;
+  font-variant-caps: all-petite-caps;
+  border-radius: 12px 2px 12px 2px;
+  padding-left: 10px;
+  padding-bottom: 5px;
+  margin-top: 10px;
+  background-color: #ffcc00;
+}
+.skills img {
+  margin-left: 20px;
+}
+
+.Additionalskills h5{
+  color: white;
+  font-weight: bolder;
+  font-variant-caps: all-petite-caps;
+  border-radius: 12px 2px 12px 2px;
+  padding-left: 10px;
+  padding-bottom: 5px;
+  margin-top: 40px;
+  background-color: #ffcc00;
+}
+
+.Additionalskills img {
+  margin-left: 30px;
+}
+
+.education h5 {
+  color: white;
+  font-weight: bolder;
+  font-variant-caps: all-petite-caps;
+  border-radius: 12px 2px 12px 2px;
+  padding-left: 10px;
+  padding-bottom: 5px;
+  margin-top: 10px;
+  background-color: #ffcc00;
+}
+
+.education h6{
+  font-weight: bolder;
+}
+
+.education span{
+margin-top: -20px;}
+
+
+.botdevelopments h5{
+  color: white;
+  font-weight: bolder;
+  font-variant-caps: all-petite-caps;
+  border-radius: 12px 2px 12px 2px;
+  padding-left: 10px;
+  padding-bottom: 5px;
+  margin-top: 45px;
+  background-color: #ffcc00;
+
+}
+
+.botdevelopments img {
+  margin-left: 19px;
+}
+
+
+
+.certifications h5{
+  color: white;
+  font-weight: bolder;
+  font-variant-caps: all-petite-caps;
+  border-radius: 12px 2px 12px 2px;
+  padding-left: 10px;
+  padding-bottom: 5px;
+  margin-top: 28px;
+  background-color: #ffcc00;
+
+}
+
+
+
+/* .certification img {
+  margin-left: 19px;
+}
+ */
+
+
+
+
+
+#col p {
+  font-size: 11px;
+  color: #e9bb03;
+}
+
+#cer1 {
+  float: left;
+}
+
+#cer3{
+  float: left;
+}
+
+#cer2 {
+  float: left;
+}
+
+
+
+
+
+.language h5{
+  color: white;
+  font-weight: bolder;
+  font-variant-caps: all-petite-caps;
+  border-radius: 12px 2px 12px 2px;
+
+  padding-left: 10px;
+  padding-bottom: 5px;
+  margin-top: 10px;
+  background-color: #ffcc00;
+ 
+
+}
+
+
+.language p{
+  font-size: 16px;
+  letter-spacing: 2px;
+  margin-left: 10px;
+  margin-top: -16px;
+}
